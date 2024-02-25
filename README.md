@@ -1,4 +1,4 @@
-# Sprint-5:
+# Sprint 5:
 Web App Vehicles – Aplicación web vehículos 
 
 # Descripción del proyecto:
